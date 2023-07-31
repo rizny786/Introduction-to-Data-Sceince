@@ -10,70 +10,70 @@ Data Science is an interdisciplinary field that combines domain knowledge, stati
 
 ### Machine Learning Fundamentals
 
-- [Classification](/classification)
-- [Regression](/path/to/regression)
-- [Clustering](/path/to/clustering)
-- [Dimensionality Reduction](/path/to/dimensionality-reduction)
+- [Classification](/Classification)
+- [Regression](/Regression)
+- [Clustering](/Clustering)
+- [Dimensionality Reduction](/Dimensionality-Reduction)
 
 ### Natural Language Processing (NLP)
 
-- [Sentiment Analysis](/path/to/sentiment-analysis)
-- [Named Entity Recognition (NER)](/path/to/ner)
-- [Language Translation](/path/to/language-translation)
-- [Text Generation](/path/to/text-generation)
+- [Sentiment Analysis](/NLP/Sentiment-Analysis)
+- [Named Entity Recognition (NER)](/NLP/NER)
+- [Language Translation](/NLP/Language-Translation)
+- [Text Generation](/NLP/Text-Generation)
 
 ### Time Series Analysis
 
-- [Time Series Forecasting](/path/to/time-series-forecasting)
-- [Trend Analysis](/path/to/trend-analysis)
-- [Seasonality Analysis](/path/to/seasonality-analysis)
+- [Time Series Forecasting](/Time-Series/Time-Series-Forecasting)
+- [Trend Analysis](/Time-Series/Trend-Analysis)
+- [Seasonality Analysis](/Time-Series/Seasonality-Analysis)
 
 ### Data Visualization and Storytelling
 
-- [Data Visualization Techniques](/path/to/data-visualization)
-- [Creating Interactive Visualizations](/path/to/interactive-visualizations)
-- [Storytelling with Data](/path/to/storytelling)
+- [Data Visualization Techniques](/Data-Visualization/Data-Visualization-Techniques)
+- [Creating Interactive Visualizations](/Data-Visualization/Interactive-Visualizations)
+- [Storytelling with Data](/Data-Visualization/Storytelling)
 
 ### Deep Learning
 
-- [Neural Networks](/path/to/neural-networks)
-- [Convolutional Neural Networks (CNN)](/path/to/cnn)
-- [Recurrent Neural Networks (RNN)](/path/to/rnn)
-- [Transfer Learning](/path/to/transfer-learning)
+- [Neural Networks](/Deep-Learning/Neural-Networks)
+- [Convolutional Neural Networks (CNN)](/Deep-Learning/CNN)
+- [Recurrent Neural Networks (RNN)](/Deep-Learning/RNN)
+- [Transfer Learning](/Deep-Learning/Transfer-Learning)
 
 ### Model Evaluation and Deployment
 
-- [Model Evaluation Metrics](/path/to/evaluation-metrics)
-- [Cross-Validation](/path/to/cross-validation)
-- [Model Deployment Techniques](/path/to/model-deployment)
+- [Model Evaluation Metrics](/Model-Evaluation/Evaluation-Metrics)
+- [Cross-Validation](/Model-Evaluation/Cross-Validation)
+- [Model Deployment Techniques](/Model-Evaluation/Model-Deployment)
 
 ### Feature Engineering
 
-- [Feature Selection](/path/to/feature-selection)
-- [Feature Scaling](/path/to/feature-scaling)
-- [Feature Transformation](/path/to/feature-transformation)
+- [Feature Selection](/Feature-Engineering/Feature-Selection)
+- [Feature Scaling](/Feature-Engineering/Feature-Scaling)
+- [Feature Transformation](/Feature-Engineering/Feature-Transformation)
 
 ### Big Data and Spark
 
-- [Introduction to Big Data](/path/to/big-data)
-- [Distributed Data Processing with Apache Spark](/path/to/spark)
+- [Introduction to Big Data](/Big-Data/Introduction-to-Big-Data)
+- [Distributed Data Processing with Apache Spark](/Big-Data/Apache-Spark)
 
 ### Data Ethics and Bias
 
-- [Ethical Considerations in Data Science](/path/to/data-ethics)
-- [Addressing Bias in Data and Models](/path/to/bias-handling)
+- [Ethical Considerations in Data Science](/Data-Ethics/Ethical-Considerations)
+- [Addressing Bias in Data and Models](/Data-Ethics/Bias-Handling)
 
 ### Advanced Topics
 
-- [Reinforcement Learning](/path/to/reinforcement-learning)
-- [Generative Adversarial Networks (GANs)](/path/to/gans)
-- [Autoencoders](/path/to/autoencoders)
+- [Reinforcement Learning](/Advanced-Topics/Reinforcement-Learning)
+- [Generative Adversarial Networks (GANs)](/Advanced-Topics/GANs)
+- [Autoencoders](/Advanced-Topics/Autoencoders)
 
 ### Miscellaneous
 
-- [A/B Testing](/path/to/ab-testing)
-- [Imbalanced Data Handling](/path/to/imbalanced-data)
-- [Hyperparameter Tuning](/path/to/hyperparameter-tuning)
+- [A/B Testing](/Miscellaneous/A-B-Testing)
+- [Imbalanced Data Handling](/Miscellaneous/Imbalanced-Data)
+- [Hyperparameter Tuning](/Miscellaneous/Hyperparameter-Tuning)
 
 ## Getting Started
 
