@@ -10,7 +10,7 @@ Data Science is an interdisciplinary field that combines domain knowledge, stati
 
 ### Machine Learning Fundamentals
 
-- [Classification](/path/to/classification)
+- [Classification](/classification)
 - [Regression](/path/to/regression)
 - [Clustering](/path/to/clustering)
 - [Dimensionality Reduction](/path/to/dimensionality-reduction)
