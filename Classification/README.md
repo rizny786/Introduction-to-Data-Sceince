@@ -12,19 +12,19 @@ Classification is a type of supervised learning in which the goal is to predict 
 
 In this project, you'll build a classification model to differentiate between spam and non-spam (ham) emails using text data and natural language processing techniques.
 
-Link to 1 folder: [Spam Email Classification](/Classification/Spam-Email-Classification)
+[Spam Email Classification](/Classification/Spam-Email-Classification)
 
 ### 2: Iris Flower Classification
 
 This project involves using the famous Iris dataset to classify iris flowers into three species based on their sepal and petal measurements.
 
-Link to 2 folder: [Iris Flower Classification](/Classification/Iris-Flower-Classification)
+[Iris Flower Classification](/Classification/Iris-Flower-Classification)
 
 ### 3: Credit Card Fraud Detection
 
 In this project, you'll work on detecting credit card fraud using transaction data and various machine learning algorithms.
 
-Link to 3 folder: [Credit Card Fraud Detection](/Classification/Credit-Card-Fraud-Detection)
+[Credit Card Fraud Detection](/Classification/Credit-Card-Fraud-Detection)
 
 ## Getting Started
 
